@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/supplement_tracker2/static/css/main.e8408901.chunk.css",
-    "main.js": "/supplement_tracker2/static/js/main.1236ce84.chunk.js",
-    "main.js.map": "/supplement_tracker2/static/js/main.1236ce84.chunk.js.map",
-    "runtime-main.js": "/supplement_tracker2/static/js/runtime-main.cbc54ed5.js",
-    "runtime-main.js.map": "/supplement_tracker2/static/js/runtime-main.cbc54ed5.js.map",
-    "static/js/2.d92782c9.chunk.js": "/supplement_tracker2/static/js/2.d92782c9.chunk.js",
-    "static/js/2.d92782c9.chunk.js.map": "/supplement_tracker2/static/js/2.d92782c9.chunk.js.map",
-    "index.html": "/supplement_tracker2/index.html",
-    "precache-manifest.6ecb6be78ebd3b75b055e87ffcc868ef.js": "/supplement_tracker2/precache-manifest.6ecb6be78ebd3b75b055e87ffcc868ef.js",
-    "service-worker.js": "/supplement_tracker2/service-worker.js",
-    "static/css/main.e8408901.chunk.css.map": "/supplement_tracker2/static/css/main.e8408901.chunk.css.map",
-    "static/js/2.d92782c9.chunk.js.LICENSE": "/supplement_tracker2/static/js/2.d92782c9.chunk.js.LICENSE",
-    "static/media/index.css": "/supplement_tracker2/static/media/2.c53baaf5.jpg"
+    "main.css": "/goal_tracker/static/css/main.39509ccd.chunk.css",
+    "main.js": "/goal_tracker/static/js/main.b8e35dca.chunk.js",
+    "main.js.map": "/goal_tracker/static/js/main.b8e35dca.chunk.js.map",
+    "runtime-main.js": "/goal_tracker/static/js/runtime-main.533ef8e1.js",
+    "runtime-main.js.map": "/goal_tracker/static/js/runtime-main.533ef8e1.js.map",
+    "static/js/2.a32f6f3c.chunk.js": "/goal_tracker/static/js/2.a32f6f3c.chunk.js",
+    "static/js/2.a32f6f3c.chunk.js.map": "/goal_tracker/static/js/2.a32f6f3c.chunk.js.map",
+    "index.html": "/goal_tracker/index.html",
+    "precache-manifest.c95fc03c699acb5183cb2fdd7567d0fa.js": "/goal_tracker/precache-manifest.c95fc03c699acb5183cb2fdd7567d0fa.js",
+    "service-worker.js": "/goal_tracker/service-worker.js",
+    "static/css/main.39509ccd.chunk.css.map": "/goal_tracker/static/css/main.39509ccd.chunk.css.map",
+    "static/js/2.a32f6f3c.chunk.js.LICENSE": "/goal_tracker/static/js/2.a32f6f3c.chunk.js.LICENSE",
+    "static/media/index.css": "/goal_tracker/static/media/1.505e9103.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbc54ed5.js",
-    "static/js/2.d92782c9.chunk.js",
-    "static/css/main.e8408901.chunk.css",
-    "static/js/main.1236ce84.chunk.js"
+    "static/js/runtime-main.533ef8e1.js",
+    "static/js/2.a32f6f3c.chunk.js",
+    "static/css/main.39509ccd.chunk.css",
+    "static/js/main.b8e35dca.chunk.js"
   ]
 }
